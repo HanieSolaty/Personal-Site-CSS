@@ -1,0 +1,213 @@
+/************************my class selectors************************/
+.b-cloud {
+position: relative;
+bottom: 350px;
+right: 10%;
+}
+
+.bottom-container {
+  text-align: center;
+  background-color: #A2DBFA;
+  padding: 20px;
+  padding-top: 70px;
+}
+
+.BUTTON_VUV {
+  background: #39A2DB;
+  background-image: -webkit-linear-gradient(top, #39A2DB, #39A2DB);
+  background-image: -moz-linear-gradient(top, #3D94F6, #39A2DB);
+  background-image: -ms-linear-gradient(top, #3D94F6, #39A2DB);
+  background-image: -o-linear-gradient(top, #3D94F6, #39A2DB);
+  background-image: -webkit-gradient(to bottom, #39A2DB, #39A2DB);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  line-height: 4px;
+  color: #FFFFFF;
+  font-family: 'Roboto', sans-serif;
+  width: 150px;
+  font-size: 20px;
+  font-weight: bolder;
+  padding: 25px;
+  border: solid #39A2DB 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin-bottom: 10%;
+}
+
+.BUTTON_VUV:hover {
+  border: solid #39A2DB 1px;
+  background: #1E62D0;
+  background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+.contact {
+  margin-bottom: 30px;
+}
+
+.contact1 {
+  margin-bottom: 30px;
+  text-align: center;
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.designing {
+  width: 40%;
+  float: right;
+  margin-left: 30px;
+}
+
+.footer {
+  font-size: 70%;
+  margin: 0;
+  padding-top: 4%;
+  padding-bottom: 4%;
+  text-align: center;
+  color: #39A2DB;
+}
+
+.footer-link {
+  margin-left: 4%;
+  margin-right: 4%;
+  text-decoration: none;
+}
+
+.middle-container {
+  text-align: center;
+}
+
+.my-h1 {
+  color: #125D98;
+  font-family: 'Parisienne', cursive;
+  font-size: 5.625rem;
+  /*In Font Size 100% = 1em = 16px and saying 16px is like
+  choosing 16 in word or pp we can convert any of these units and use them*/
+  margin-bottom: 35px;
+}
+
+.my-h2 {
+  margin-bottom: 0;
+}
+
+.my-p {
+  margin-top: 35px;
+  color: #1768AC;
+  font-family: 'Lobster', cursive;
+  font-size: 2.5rem;
+  font-weight: normal;
+  text-align: center;
+}
+
+.my-p2 {
+  width: 30%;
+  margin: 30px auto 30px auto;
+  text-align: center;
+}
+
+.profile {
+  color: #40514E;
+}
+
+.profile1 {
+  background-color: #2B2B2B;
+  margin: 70px auto 29px auto;
+  border-radius: 100%;
+}
+
+.programing {
+  width: 40%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-row1 {
+  width: 50%;
+  margin-left: 15%;
+  text-align: left;
+  line-height: 1.5;
+  margin-bottom: 150px;
+}
+
+.skill-row2 {
+  width: 50%;
+  margin-left: 37%;
+  text-align: left;
+  line-height: 1.5;
+  margin-bottom: 150px;
+}
+
+.t-cloud {
+position: relative;
+left: 35%;
+bottom: 50px;
+}
+
+.top-container {
+  /*height: 500px;*/
+  color: #fff;
+  background: linear-gradient(5deg, #A2DBFA 35%, #39A2DB 65%, #FFC947 100%);
+  font-family: cursive;
+  /*webkit-background-clip: text;
+    webkit-text-fill-color: transparent;*/
+  text-align: center;
+  position: relative;
+  padding-top: 100px;
+}
+/**************************my tag selectors**************************/
+a {
+  color: #11999E;
+}
+
+a:hover {
+  color: #141E61;
+}
+
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  background-color: #C0FEFC;
+}
+
+h1 {
+  margin: 0;
+}
+
+h2 {
+  color: #11999E;
+  font-size: 250%;
+  font-family: 'Gloria Hallelujah', cursive;
+  margin-bottom: 120px;
+}
+
+h3 {
+  color: #11999E;
+  font-size: 150%;
+  font-family: 'Merienda', cursive;
+}
+
+hr {
+  margin: 80px auto 80px auto;
+  border: solid;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  width: 5%;
+  border-top-width: 8px;
+}
+
+p {
+  margin: 0;
+  text-align: justify;
+}
